@@ -1,0 +1,38 @@
+[
+  {
+    "destination": "Cox's Bazar",
+    "description": "Cox's Bazar Beach located at Cox's Bazar, Bangladesh, is the longest natural sea beach in the world running 150 kilometres. It is the top tourist destination of Bangladesh",
+    "expense": 5000,
+    "img": "https://i.ibb.co/LztHwf4/cox-s-bazar.png"
+  },
+  {
+    "destination": "Tanguar Haor",
+    "description": "Tanguar haor,located in the Dharmapasha and Tahirput upazillas of Sunamganj District in Bangladesh, is a unique wetland ecosystem of national importance and has come into international focus.",
+    "expense": 5000,
+    "img": "https://i.ibb.co/W0k7QRv/tanguar-haor.png"
+  },
+  {
+    "destination": "Nilgiri",
+    "description": "Nilgiri or Nil Giri is one of the tallest peaks and beautiful tourist spot in Bangladesh. It is about 3500 feet high and situated at Thanci Thana. It is about 46 km south of Bandarban on the Bandarban-Chimbuk-Thanchi road. Beside this spot you can see Mro villages",
+    "expense": 5000,
+    "img": "https://i.ibb.co/9bbKGmr/nilgiri.png"
+  },
+  {
+    "destination": "Sundarbans",
+    "description": "Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Baleswar River in Bangladesh's division of Khulna.",
+    "expense": 7000,
+    "img": "https://i.ibb.co/zSTmNkv/sundarban.png"
+  },
+  {
+    "destination": "Ratargul Swamp Forest",
+    "description": "Ratargul Swamp Forest is a freshwater swamp forest located in Gowain River, Fatehpur Union, Gowainghat, Sylhet, Bangladesh. It is the only swamp forest located in Bangladesh and one of the few freshwater swamp forests in the world.",
+    "expense": 3000,
+    "img": "https://i.ibb.co/TttdRkt/ratargul.png"
+  },
+  {
+    "destination": "St. Martin's Island",
+    "description": "St. Martin's Island is a small island in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. ",
+    "expense": 6000,
+    "img": "https://i.ibb.co/QYYD6t6/saint-martin.png"
+  }
+]
